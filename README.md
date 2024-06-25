@@ -1,4 +1,4 @@
 # demo-repo
 
 
-A first attempt to learning Git and Github.
+A first attempt to learning Git and Github :)
